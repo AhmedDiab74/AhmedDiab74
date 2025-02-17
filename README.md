@@ -52,19 +52,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
   <img width="12" />
-<img id="apple-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo" style="filter: invert(100%) brightness(200%);" />
 
-<style>
-  #apple-logo {
-    filter: invert(0%);
-  }
-
-  @media (prefers-color-scheme: dark) {
-    #apple-logo {
-      filter: invert(100%) brightness(200%);
-    }
-  }
-</style>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
   <img width="12" />
@@ -73,19 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="gradle logo"  />
   <img width="12" />
  
-<img id="git-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-
-<style>
-  #git-logo {
-    filter: invert(0%);
-  }
-
-  @media (prefers-color-scheme: dark) {
-    #git-logo {
-      filter: invert(100%) brightness(200%);
-    }
-  }
-</style>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" style="filter: invert(100%) brightness(200%);" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
